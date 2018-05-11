@@ -1,0 +1,23 @@
+{
+  "name": "greatbay",
+  "version": "1.0.0",
+  "description": "great bay project for the ucla coding bootcamp",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeraymond92/GreatBay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeraymond92/GreatBay/issues"
+  },
+  "homepage": "https://github.com/georgeraymond92/GreatBay#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
